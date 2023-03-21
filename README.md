@@ -2,6 +2,9 @@
 
 ## This repo contains the code for training a U-Net model for image segmentation on the Human Segmentation Dataset.
 
+<a href="https://colab.research.google.com/github/josebenitezg/Pytorch-Image-Segmentation/blob/main/Learn_PyTorch_ImageSegmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"> 
+</a>
+
 ## Usage :nut_and_bolt:
 
 1. Clone this repo
