@@ -7,7 +7,7 @@
 1. Clone this repo
 
 ```
-git clone 
+git clone https://github.com/josebenitezg/Pytorch-Image-Segmentation
 ```
 
 2. Create a virtual enviroment
